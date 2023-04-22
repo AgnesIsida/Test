@@ -1,4 +1,4 @@
-const Score = [0,5,10]; // баллы за задание первое 0,второе 5, третье 10
+const Score = [0,5,10]; // например баллы за задание первое 0,второе 5, третье 10
 
 const getAverage = (numbers) => {
   let sum = 0; 
@@ -8,6 +8,7 @@ const getAverage = (numbers) => {
 };
 
 console.log(getAverage(Score));
+
 
     
      
