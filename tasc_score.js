@@ -9,7 +9,9 @@ const getAverage = (numbers) => {
 
 console.log(getAverage(Score));
 
+const nameStudent = 'Andrew.';
 
+console.log(nameStudent.slice(1));
     
      
 
