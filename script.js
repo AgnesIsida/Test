@@ -39,5 +39,11 @@ newFunction();
            
         };
         console.log(xreateUser("Inna", 33, Reap));
+
+        function Value4(min, max) {
+            return Math.floor( Math.random() * (max - min + 1) + min)
+            } 
+            console.log (Value4( 10,42))
+
     
 

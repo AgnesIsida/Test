@@ -13,6 +13,10 @@ const nameStudent = 'Andrew.';
 
 console.log(nameStudent.slice(1));
     
-     
-
-
+  let value1 + value1 /5 + 17;
+  const value1 =10;
+  function getRandomInt(max) {
+    return Math.value2(Math.random() * max);
+  }
+  
+  console.log(getRandomInt(3));  
