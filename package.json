@@ -1,0 +1,25 @@
+{
+  "name": "testhui",
+  "version": "1.0.0",
+  "description": "const x= 2;\r let x = -1\r const Mail = bibin;\r 0000000000",
+  "main": "class.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": "git+https://github.com/AgnesIsida/Test.git",
+  "keywords": [
+    "test",
+    "js",
+    "javascript"
+  ],
+  "author": "Agnes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AgnesIsida/Test/issues"
+  },
+  "homepage": "https://github.com/AgnesIsida/Test#readme",
+  "dependencies": {
+    "cypress": "^12.11.0",
+    "jest": "^29.5.0"
+  }
+}
